@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  cpi-delta:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-26T00:49:54.143967+01:00"
+    description: Customer Provisioned Infrastructure Delta for Kubernetes
+    digest: 9a9599b18986af7932cdbc3fd3b1c84958637cd799bc516e614753cc8dc5d560
+    name: cpi-delta
+    type: application
+    urls:
+    - cpi-delta-0.1.0.tgz
+    version: 0.1.0
+  cpi-edge:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-26T00:49:54.145404+01:00"
+    description: Customer Provisioned Infrastructure Edge for Kubernetes
+    digest: 797e854eda8fea005a00a7d7a44d69bae228798675da9df2a7045318c2bc3e66
+    name: cpi-edge
+    type: application
+    urls:
+    - cpi-edge-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-26T00:49:54.143002+01:00"
