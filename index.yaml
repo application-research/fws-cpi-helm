@@ -3,7 +3,7 @@ entries:
   cpi-delta:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-04-26T09:31:39.636386+01:00"
+    created: "2023-04-26T09:39:46.826273+01:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: 9a9599b18986af7932cdbc3fd3b1c84958637cd799bc516e614753cc8dc5d560
     name: cpi-delta
@@ -14,7 +14,7 @@ entries:
   cpi-edge:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-04-26T09:31:39.641439+01:00"
+    created: "2023-04-26T09:39:46.83076+01:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: 145e09abb2d5c072c28f6c6d69e6ab3b8a3831b5eff2310a05a98dfb43cdaad1
     name: cpi-edge
@@ -24,7 +24,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-04-26T09:31:39.637694+01:00"
+    created: "2023-04-26T09:39:46.829745+01:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: fd050afc80df3bc1b76398dda6667d38caa5212e9a04df51a4d1228508dbac1e
     name: cpi-edge
@@ -34,7 +34,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-04-26T09:31:39.636961+01:00"
+    created: "2023-04-26T09:39:46.826859+01:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: 797e854eda8fea005a00a7d7a44d69bae228798675da9df2a7045318c2bc3e66
     name: cpi-edge
@@ -45,12 +45,22 @@ entries:
   cpi-postgresql:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-04-26T09:31:39.641751+01:00"
+    created: "2023-04-26T09:39:46.831749+01:00"
     description: Customer Provisioned Infrastructure PostgreSQL for Kubernetes
-    digest: 32a88d9e96dc83652f40c35d0e773fc23bac4608ed94039d735ee9d58e89c364
+    digest: 3e68216dd34fcca615994311d958267933d2446309777d5185dd12464c111f4d
+    name: cpi-postgresql
+    type: application
+    urls:
+    - cpi-postgresql-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-26T09:39:46.831244+01:00"
+    description: Customer Provisioned Infrastructure PostgreSQL for Kubernetes
+    digest: 0dba8a9f88a5589b0ad50e1c2c82dfe43675b62b6850fc5aa8140c58c5b696b8
     name: cpi-postgresql
     type: application
     urls:
     - cpi-postgresql-0.1.0.tgz
     version: 0.1.0
-generated: "2023-04-26T09:31:39.635264+01:00"
+generated: "2023-04-26T09:39:46.825084+01:00"
