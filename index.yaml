@@ -3,7 +3,17 @@ entries:
   cpi-delta:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-15T02:16:48.111965+08:00"
+    created: "2023-05-28T18:41:50.353128299+08:00"
+    description: Customer Provisioned Infrastructure Delta for Kubernetes
+    digest: 1b4c8ec80e7c5b84bd9ccc479e859cafad2b398dd058de52733a9a7e591bb58d
+    name: cpi-delta
+    type: application
+    urls:
+    - cpi-delta-0.6.0.tgz
+    version: 0.6.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-05-28T18:41:50.352789276+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: 76094db06e101476b8b381f2c1daa451ea738d117c64c2bca8474386302861fd
     name: cpi-delta
@@ -13,7 +23,7 @@ entries:
     version: 0.5.8
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-15T02:16:48.111262+08:00"
+    created: "2023-05-28T18:41:50.352471346+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: 0bf6475cf02ef70a7760ab251cca069a12637bf738b66ff1fa0e4a541ce6a6cb
     name: cpi-delta
@@ -23,7 +33,7 @@ entries:
     version: 0.5.7
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-15T02:16:48.110693+08:00"
+    created: "2023-05-28T18:41:50.352137072+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: c61031c5112fd597a90d020c1697939223d761dce02cd26de76274e645e3bed1
     name: cpi-delta
@@ -33,7 +43,7 @@ entries:
     version: 0.5.6
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-15T02:16:48.109912+08:00"
+    created: "2023-05-28T18:41:50.351782962+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: 25dd64182cc15eaa4215d0156ac810a73ce44d1f450ce388f2cb6520edd78ea3
     name: cpi-delta
@@ -43,7 +53,7 @@ entries:
     version: 0.5.5
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-15T02:16:48.109204+08:00"
+    created: "2023-05-28T18:41:50.351373467+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: d039706a92cc353ca0ce651a64601d3180a8d3dfc48b0886269dc99113ff01f7
     name: cpi-delta
@@ -53,7 +63,7 @@ entries:
     version: 0.5.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-15T02:16:48.106423+08:00"
+    created: "2023-05-28T18:41:50.350906489+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: 3319ffba60c4071bf69d4397ff9095fa9ee6a0dc05caf69a3cb5733588d32311
     name: cpi-delta
@@ -63,7 +73,7 @@ entries:
     version: 0.5.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-15T02:16:48.105585+08:00"
+    created: "2023-05-28T18:41:50.350403472+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: 6b9ea711ed2a91b49089c4ac56eff0ea97b2396fc4b0ac88e4e323d0e256f789
     name: cpi-delta
@@ -73,7 +83,7 @@ entries:
     version: 0.5.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-15T02:16:48.104782+08:00"
+    created: "2023-05-28T18:41:50.349535869+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: 83018dd2d363211efa6fee0bcc3a2ea789288c83081a5d930eee30e095e7245c
     name: cpi-delta
@@ -83,7 +93,7 @@ entries:
     version: 0.5.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-15T02:16:48.104059+08:00"
+    created: "2023-05-28T18:41:50.349088867+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: 0768fc71cab91aee604652ebe3a23d14a169047fa64283526562fd75c43f3eb7
     name: cpi-delta
@@ -94,7 +104,7 @@ entries:
   cpi-delta-registry:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-15T02:16:48.112687+08:00"
+    created: "2023-05-28T18:41:50.353446508+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: 5a1183f8d1b474611c8b8f536a8dd46ef80bb32401350e97c6ee4c72428f43e6
     name: cpi-delta-registry
@@ -105,7 +115,17 @@ entries:
   cpi-edge:
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-05-15T02:16:48.117126+08:00"
+    created: "2023-05-28T18:41:50.356083331+08:00"
+    description: Customer Provisioned Infrastructure Edge for Kubernetes
+    digest: c047ce2b14910fc795defe87243f76cde734b607e1e26c425aead3224fa4abfc
+    name: cpi-edge
+    type: application
+    urls:
+    - cpi-edge-0.9.0.tgz
+    version: 0.9.0
+  - apiVersion: v2
+    appVersion: 1.0.2
+    created: "2023-05-28T18:41:50.355743819+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: 54d1dcee0895db1fbeb7a49e1ca73542c890c2c22eff70dfba56215eefae34e5
     name: cpi-edge
@@ -115,7 +135,7 @@ entries:
     version: 0.8.4
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-05-15T02:16:48.116643+08:00"
+    created: "2023-05-28T18:41:50.355395717+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: 6d50817a12c608a8ba16251087e2b3c6b5a7dc27ad728a2da02b9a05ee5b8ca7
     name: cpi-edge
@@ -125,7 +145,7 @@ entries:
     version: 0.8.3
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-05-15T02:16:48.116059+08:00"
+    created: "2023-05-28T18:41:50.355072758+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: 1b678097b6d885ba57057b5811b9f564c0ba97f22234bece79ce5643c70e32dc
     name: cpi-edge
@@ -135,7 +155,7 @@ entries:
     version: 0.8.2
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-05-15T02:16:48.115356+08:00"
+    created: "2023-05-28T18:41:50.354749729+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: efebbd9bc46db9d38f6ddd82293f19a9584dd934bb66f960a9fc08f1ee154604
     name: cpi-edge
@@ -145,7 +165,7 @@ entries:
     version: 0.8.1
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-05-15T02:16:48.114696+08:00"
+    created: "2023-05-28T18:41:50.354424255+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: 8a9bf06019a213ba063c402e49f19568674f14078b5ef611b393181787c69042
     name: cpi-edge
@@ -155,7 +175,7 @@ entries:
     version: 0.8.0
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-05-15T02:16:48.113996+08:00"
+    created: "2023-05-28T18:41:50.354100808+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: fac812751495bea8276e0c561430619ea47e5204dc51a2818152ec46276ddab8
     name: cpi-edge
@@ -165,7 +185,7 @@ entries:
     version: 0.7.1
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-05-15T02:16:48.113376+08:00"
+    created: "2023-05-28T18:41:50.353775055+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: 4ad9aea3d0b287b539c29bacddff885308ca29b5c9cc3e5c1d27257c37bf9a94
     name: cpi-edge
@@ -176,7 +196,7 @@ entries:
   cpi-postgresql:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-15T02:16:48.121519+08:00"
+    created: "2023-05-28T18:41:50.3578888+08:00"
     description: Customer Provisioned Infrastructure PostgreSQL for Kubernetes
     digest: 6679c860e43dd287556b36826efc1b905cdf5a030f85f4409b07deb0fe012559
     name: cpi-postgresql
@@ -186,7 +206,7 @@ entries:
     version: 0.5.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-15T02:16:48.12092+08:00"
+    created: "2023-05-28T18:41:50.35761152+08:00"
     description: Customer Provisioned Infrastructure PostgreSQL for Kubernetes
     digest: dbaae588cf8a500db816e2ea3ffdab4f90ac88ca0e6934fc2e269cf76d30dfda
     name: cpi-postgresql
@@ -196,7 +216,7 @@ entries:
     version: 0.5.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-15T02:16:48.119414+08:00"
+    created: "2023-05-28T18:41:50.357328581+08:00"
     description: Customer Provisioned Infrastructure PostgreSQL for Kubernetes
     digest: e8dcc8758625c497cc78d437f3bb8f3a027a346ef01ff88ec4cbaa1e27bb9a0f
     name: cpi-postgresql
@@ -206,7 +226,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-15T02:16:48.118829+08:00"
+    created: "2023-05-28T18:41:50.35675586+08:00"
     description: Customer Provisioned Infrastructure PostgreSQL for Kubernetes
     digest: 8f250150c12a790659fcc592c8c44ca28e1cd5aa6f993263ec817cfa8a4bead9
     name: cpi-postgresql
@@ -216,7 +236,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-15T02:16:48.118301+08:00"
+    created: "2023-05-28T18:41:50.356533965+08:00"
     description: Customer Provisioned Infrastructure PostgreSQL for Kubernetes
     digest: af2442176eddab4114d6af7fed29ec943978d9b2501492dfba2f3e75c52c819b
     name: cpi-postgresql
@@ -226,7 +246,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-15T02:16:48.117678+08:00"
+    created: "2023-05-28T18:41:50.356295518+08:00"
     description: Customer Provisioned Infrastructure PostgreSQL for Kubernetes
     digest: f91485382b6f463f5bf4a722026e09f71798856fb4851643db2b2b520c7e0a73
     name: cpi-postgresql
@@ -234,4 +254,4 @@ entries:
     urls:
     - cpi-postgresql-0.0.1337.tgz
     version: 0.0.1337
-generated: "2023-05-15T02:16:48.10235+08:00"
+generated: "2023-05-28T18:41:50.348479338+08:00"
