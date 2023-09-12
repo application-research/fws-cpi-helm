@@ -3,7 +3,7 @@ entries:
   cpi-delta:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.73271+08:00"
+    created: "2023-09-12T17:02:43.173022+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: a5cde60e8ddedadc9cfb177390116da9545aee67940ccd76f826d637547c4a9b
     name: cpi-delta
@@ -13,7 +13,7 @@ entries:
     version: 0.8.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.732364+08:00"
+    created: "2023-09-12T17:02:43.17265+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: 646dd1e38f1bc6c257e4915b3a633534f3893d2704c70f1a81a7b229d40afbbf
     name: cpi-delta
@@ -23,7 +23,7 @@ entries:
     version: 0.8.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.732018+08:00"
+    created: "2023-09-12T17:02:43.172287+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: d764876adad69d1ebc32f46bf168ae1066a6f4280b519eab6a353227b47e5f9f
     name: cpi-delta
@@ -33,7 +33,7 @@ entries:
     version: 0.7.6
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.731658+08:00"
+    created: "2023-09-12T17:02:43.171896+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: a0a5fdeaadd3b4a6934ca6e166013ac71f9a033100a79c141074ba53456d67ca
     name: cpi-delta
@@ -43,7 +43,7 @@ entries:
     version: 0.7.5
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.731084+08:00"
+    created: "2023-09-12T17:02:43.171476+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: 8f028bcb2acc32e7c225236032843ac26859e897258243638c3a906f5a91052e
     name: cpi-delta
@@ -53,7 +53,7 @@ entries:
     version: 0.7.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.730272+08:00"
+    created: "2023-09-12T17:02:43.171048+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: cb13f9343234c1db81662293e110b02f795075c3294fecfc1526671f28c073f6
     name: cpi-delta
@@ -63,7 +63,7 @@ entries:
     version: 0.7.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.729897+08:00"
+    created: "2023-09-12T17:02:43.170612+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: bb3bd42383e9c95f8434cec81655659507914bfed3df40b0d239f70eb13fbc38
     name: cpi-delta
@@ -73,7 +73,7 @@ entries:
     version: 0.7.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.729523+08:00"
+    created: "2023-09-12T17:02:43.170167+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: c48408ac64195507ef029591428ecdb7b8951fa12ae7b90a44f8683994bd3902
     name: cpi-delta
@@ -83,7 +83,7 @@ entries:
     version: 0.7.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.729143+08:00"
+    created: "2023-09-12T17:02:43.16907+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: b0330841fae602488f27e457b2b8855530a84412f06051f5785fc8b907050079
     name: cpi-delta
@@ -93,7 +93,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.728766+08:00"
+    created: "2023-09-12T17:02:43.168622+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: 15bb5db37e7dbd084ed1b565b90ba757ceb0a6d2ec233083a71a4dad96a4a842
     name: cpi-delta
@@ -103,7 +103,7 @@ entries:
     version: 0.6.6
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.728389+08:00"
+    created: "2023-09-12T17:02:43.168012+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: af69b6274b12b5824502c2370090fb6f5a0ccbcdcd6a0ec8de2bc92df28e7a68
     name: cpi-delta
@@ -113,7 +113,7 @@ entries:
     version: 0.6.5
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.728022+08:00"
+    created: "2023-09-12T17:02:43.167412+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: 40563756f64bdca7b7a5eac48158c9320c29faaa45848369bac9c7d396926cd2
     name: cpi-delta
@@ -123,7 +123,7 @@ entries:
     version: 0.6.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.727657+08:00"
+    created: "2023-09-12T17:02:43.166738+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: 6ba67c742f748c20d6aa30469341fd6f8b1b53be5475b86836daf1c58d3d864f
     name: cpi-delta
@@ -133,7 +133,7 @@ entries:
     version: 0.6.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.727293+08:00"
+    created: "2023-09-12T17:02:43.166142+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: a9cebcbe0cfd993b87485b462bf8555716d8695fe62fcb157c6299ee2cc0b600
     name: cpi-delta
@@ -143,7 +143,7 @@ entries:
     version: 0.6.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.726794+08:00"
+    created: "2023-09-12T17:02:43.165701+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: d622e315121e31b1e38cd4da68474fb850976dba17610bea2fbfa9beb721daa4
     name: cpi-delta
@@ -153,7 +153,7 @@ entries:
     version: 0.6.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.726293+08:00"
+    created: "2023-09-12T17:02:43.164666+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: 1b4c8ec80e7c5b84bd9ccc479e859cafad2b398dd058de52733a9a7e591bb58d
     name: cpi-delta
@@ -163,7 +163,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.725831+08:00"
+    created: "2023-09-12T17:02:43.163955+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: 76094db06e101476b8b381f2c1daa451ea738d117c64c2bca8474386302861fd
     name: cpi-delta
@@ -173,7 +173,7 @@ entries:
     version: 0.5.8
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.725455+08:00"
+    created: "2023-09-12T17:02:43.163359+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: 0bf6475cf02ef70a7760ab251cca069a12637bf738b66ff1fa0e4a541ce6a6cb
     name: cpi-delta
@@ -183,7 +183,7 @@ entries:
     version: 0.5.7
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.725098+08:00"
+    created: "2023-09-12T17:02:43.162868+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: c61031c5112fd597a90d020c1697939223d761dce02cd26de76274e645e3bed1
     name: cpi-delta
@@ -193,7 +193,7 @@ entries:
     version: 0.5.6
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.724745+08:00"
+    created: "2023-09-12T17:02:43.162342+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: 25dd64182cc15eaa4215d0156ac810a73ce44d1f450ce388f2cb6520edd78ea3
     name: cpi-delta
@@ -203,7 +203,7 @@ entries:
     version: 0.5.5
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.724387+08:00"
+    created: "2023-09-12T17:02:43.161632+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: d039706a92cc353ca0ce651a64601d3180a8d3dfc48b0886269dc99113ff01f7
     name: cpi-delta
@@ -213,7 +213,7 @@ entries:
     version: 0.5.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.724004+08:00"
+    created: "2023-09-12T17:02:43.161024+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: 3319ffba60c4071bf69d4397ff9095fa9ee6a0dc05caf69a3cb5733588d32311
     name: cpi-delta
@@ -223,7 +223,7 @@ entries:
     version: 0.5.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.722061+08:00"
+    created: "2023-09-12T17:02:43.160502+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: 6b9ea711ed2a91b49089c4ac56eff0ea97b2396fc4b0ac88e4e323d0e256f789
     name: cpi-delta
@@ -233,7 +233,7 @@ entries:
     version: 0.5.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.721578+08:00"
+    created: "2023-09-12T17:02:43.159953+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: 83018dd2d363211efa6fee0bcc3a2ea789288c83081a5d930eee30e095e7245c
     name: cpi-delta
@@ -243,7 +243,7 @@ entries:
     version: 0.5.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.721122+08:00"
+    created: "2023-09-12T17:02:43.159404+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: 0768fc71cab91aee604652ebe3a23d14a169047fa64283526562fd75c43f3eb7
     name: cpi-delta
@@ -254,7 +254,7 @@ entries:
   cpi-delta-registry:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.733015+08:00"
+    created: "2023-09-12T17:02:43.173506+08:00"
     description: Customer Provisioned Infrastructure Delta for Kubernetes
     digest: 5a1183f8d1b474611c8b8f536a8dd46ef80bb32401350e97c6ee4c72428f43e6
     name: cpi-delta-registry
@@ -265,7 +265,7 @@ entries:
   cpi-edge:
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-09-12T16:57:10.737055+08:00"
+    created: "2023-09-12T17:02:43.178754+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: 8eef14f978ac0dbb8c6742e6e8216f40cb1e56243749a05fefb8ddc77e801124
     name: cpi-edge
@@ -275,7 +275,7 @@ entries:
     version: 0.11.8
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-09-12T16:57:10.736695+08:00"
+    created: "2023-09-12T17:02:43.178398+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: 948063254516ecbdbc508944230399d183021e435773385b808d7da56277125f
     name: cpi-edge
@@ -285,7 +285,7 @@ entries:
     version: 0.11.7
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-09-12T16:57:10.736344+08:00"
+    created: "2023-09-12T17:02:43.178031+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: cae65e61b0b25efc89fbe50b7b0d4d32a3e8695ad24d636819e50ca6f01ea18e
     name: cpi-edge
@@ -295,7 +295,7 @@ entries:
     version: 0.11.6
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-09-12T16:57:10.73598+08:00"
+    created: "2023-09-12T17:02:43.177476+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: 479aa2852f9df81e5169d47417c9fc7403e630db45c6947a4dc1a431216cf780
     name: cpi-edge
@@ -305,7 +305,7 @@ entries:
     version: 0.11.5
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-09-12T16:57:10.735619+08:00"
+    created: "2023-09-12T17:02:43.176518+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: 4c033ef6ec0223121150954a78d59499c942184b3c2f25e9939fdf5f44852c1f
     name: cpi-edge
@@ -315,7 +315,7 @@ entries:
     version: 0.11.4
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-09-12T16:57:10.735254+08:00"
+    created: "2023-09-12T17:02:43.176044+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: 11b478cfee9cc25296c4346c30f5629d36516697fd039b66277b140973649ac1
     name: cpi-edge
@@ -325,7 +325,7 @@ entries:
     version: 0.11.3
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-09-12T16:57:10.734885+08:00"
+    created: "2023-09-12T17:02:43.175619+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: c6cde12a4fae33464383f751baafec4c74653193a1c70a2b854b2faada2ebdd4
     name: cpi-edge
@@ -335,7 +335,7 @@ entries:
     version: 0.11.2
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-09-12T16:57:10.734517+08:00"
+    created: "2023-09-12T17:02:43.175254+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: 319f7c78974de20888b2a2953901a2421e9d388ad9bc27678714aa04dd7be7df
     name: cpi-edge
@@ -345,7 +345,7 @@ entries:
     version: 0.11.1
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-09-12T16:57:10.734149+08:00"
+    created: "2023-09-12T17:02:43.174741+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: e06c0503fe423fe5956490b3b14e77b093c873d0d9901e0bf9175ff070b815e5
     name: cpi-edge
@@ -355,7 +355,7 @@ entries:
     version: 0.11.0
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-09-12T16:57:10.733772+08:00"
+    created: "2023-09-12T17:02:43.174346+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: bc9b88f70421ee7b785e1287a84c6cd9db1b312f4ab8e3a5663851aee9fe0795
     name: cpi-edge
@@ -365,7 +365,7 @@ entries:
     version: 0.10.1
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-09-12T16:57:10.733394+08:00"
+    created: "2023-09-12T17:02:43.17393+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: 10c483f9cf470c13b8818f809d0832e6534a5efc759c5e38fc15ed28ce76f740
     name: cpi-edge
@@ -375,7 +375,7 @@ entries:
     version: 0.10.0
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-09-12T16:57:10.742675+08:00"
+    created: "2023-09-12T17:02:43.183812+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: b85d2406a67ea10e02673d6ee0e2eae4f738d6af46e60d47d04d853fd2818e39
     name: cpi-edge
@@ -385,7 +385,7 @@ entries:
     version: 0.9.5
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-09-12T16:57:10.742098+08:00"
+    created: "2023-09-12T17:02:43.183256+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: 645d2fda5d6732785b19a42fa71c82e145442b3276f00da51d0d6c67940f3656
     name: cpi-edge
@@ -395,7 +395,7 @@ entries:
     version: 0.9.4
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-09-12T16:57:10.741674+08:00"
+    created: "2023-09-12T17:02:43.182771+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: 7d9657ee2405d118e7c2f81b1e3dab20feba301cabb8206a3dc54ccc86cd56a5
     name: cpi-edge
@@ -405,7 +405,7 @@ entries:
     version: 0.9.3
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-09-12T16:57:10.741209+08:00"
+    created: "2023-09-12T17:02:43.182343+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: 3dea50cf9cf8c39922018442a6f4a2642bda43437eb7c53b7358a9110e95d3cb
     name: cpi-edge
@@ -415,7 +415,7 @@ entries:
     version: 0.9.2
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-09-12T16:57:10.740835+08:00"
+    created: "2023-09-12T17:02:43.182026+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: b648f8dfdd872f3a39b0f0c6f77b64aebc375ee1d8671fdd8c8bd3fa6bdff5eb
     name: cpi-edge
@@ -425,7 +425,7 @@ entries:
     version: 0.9.1
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-09-12T16:57:10.74045+08:00"
+    created: "2023-09-12T17:02:43.181548+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: c047ce2b14910fc795defe87243f76cde734b607e1e26c425aead3224fa4abfc
     name: cpi-edge
@@ -435,7 +435,7 @@ entries:
     version: 0.9.0
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-09-12T16:57:10.740085+08:00"
+    created: "2023-09-12T17:02:43.181201+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: 54d1dcee0895db1fbeb7a49e1ca73542c890c2c22eff70dfba56215eefae34e5
     name: cpi-edge
@@ -445,7 +445,7 @@ entries:
     version: 0.8.4
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-09-12T16:57:10.739717+08:00"
+    created: "2023-09-12T17:02:43.180876+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: 6d50817a12c608a8ba16251087e2b3c6b5a7dc27ad728a2da02b9a05ee5b8ca7
     name: cpi-edge
@@ -455,7 +455,7 @@ entries:
     version: 0.8.3
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-09-12T16:57:10.739343+08:00"
+    created: "2023-09-12T17:02:43.180544+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: 1b678097b6d885ba57057b5811b9f564c0ba97f22234bece79ce5643c70e32dc
     name: cpi-edge
@@ -465,7 +465,7 @@ entries:
     version: 0.8.2
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-09-12T16:57:10.738978+08:00"
+    created: "2023-09-12T17:02:43.180204+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: efebbd9bc46db9d38f6ddd82293f19a9584dd934bb66f960a9fc08f1ee154604
     name: cpi-edge
@@ -475,7 +475,7 @@ entries:
     version: 0.8.1
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-09-12T16:57:10.738599+08:00"
+    created: "2023-09-12T17:02:43.179838+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: 8a9bf06019a213ba063c402e49f19568674f14078b5ef611b393181787c69042
     name: cpi-edge
@@ -485,7 +485,7 @@ entries:
     version: 0.8.0
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-09-12T16:57:10.73823+08:00"
+    created: "2023-09-12T17:02:43.17949+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: fac812751495bea8276e0c561430619ea47e5204dc51a2818152ec46276ddab8
     name: cpi-edge
@@ -495,7 +495,7 @@ entries:
     version: 0.7.1
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-09-12T16:57:10.737851+08:00"
+    created: "2023-09-12T17:02:43.179124+08:00"
     description: Customer Provisioned Infrastructure Edge for Kubernetes
     digest: 4ad9aea3d0b287b539c29bacddff885308ca29b5c9cc3e5c1d27257c37bf9a94
     name: cpi-edge
@@ -506,7 +506,7 @@ entries:
   cpi-edge-urid:
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-09-12T16:57:10.74367+08:00"
+    created: "2023-09-12T17:02:43.1854+08:00"
     description: Customer Provisioned Infrastructure Edge-URID for Kubernetes
     digest: 72d17a47df9146526a3b0b6a160140800a1cce7ba731079150b90ffead83f698
     name: cpi-edge-urid
@@ -516,7 +516,7 @@ entries:
     version: 0.12.2
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-09-12T16:57:10.743354+08:00"
+    created: "2023-09-12T17:02:43.185053+08:00"
     description: Customer Provisioned Infrastructure Edge-URID for Kubernetes
     digest: 54741490d56dc3a333316ea12234565076f785078bdd14639002cad63c2c3d48
     name: cpi-edge-urid
@@ -526,7 +526,7 @@ entries:
     version: 0.12.1
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-09-12T16:57:10.743038+08:00"
+    created: "2023-09-12T17:02:43.18458+08:00"
     description: Customer Provisioned Infrastructure Edge-URID for Kubernetes
     digest: f77beb368f43840bf1ceeea9e3febc294d93f82729e24ab290d9f2302211013f
     name: cpi-edge-urid
@@ -537,7 +537,7 @@ entries:
   cpi-postgresql:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.748057+08:00"
+    created: "2023-09-12T17:02:43.188145+08:00"
     description: Customer Provisioned Infrastructure PostgreSQL for Kubernetes
     digest: e3b16d6a1d284d36d74400b10c2383f01aa1edd6b8f4f89a0e367abc588f7f7a
     name: cpi-postgresql
@@ -547,7 +547,7 @@ entries:
     version: 0.9.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.747862+08:00"
+    created: "2023-09-12T17:02:43.187944+08:00"
     description: Customer Provisioned Infrastructure PostgreSQL for Kubernetes
     digest: 61e104f83072f54fed277d3b083fa8bee070042b6d39031f7591913730b6955e
     name: cpi-postgresql
@@ -557,7 +557,7 @@ entries:
     version: 0.8.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.747662+08:00"
+    created: "2023-09-12T17:02:43.187734+08:00"
     description: Customer Provisioned Infrastructure PostgreSQL for Kubernetes
     digest: 7c8e75030dcc76f5f269d43a6d8e2532c866ca6301d54772a54a68e96f48edeb
     name: cpi-postgresql
@@ -567,7 +567,7 @@ entries:
     version: 0.8.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.747468+08:00"
+    created: "2023-09-12T17:02:43.187514+08:00"
     description: Customer Provisioned Infrastructure PostgreSQL for Kubernetes
     digest: 2d938a19c5cee10fc21ed42efa25ce17e1c53c3c670c4959bb66f4b2b0569cac
     name: cpi-postgresql
@@ -577,7 +577,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.747256+08:00"
+    created: "2023-09-12T17:02:43.187163+08:00"
     description: Customer Provisioned Infrastructure PostgreSQL for Kubernetes
     digest: c534e04f23509fd8dd50352e735c969a76d2c95863ddf34ca0b38fd9cc7f4416
     name: cpi-postgresql
@@ -587,7 +587,7 @@ entries:
     version: 0.6.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.747053+08:00"
+    created: "2023-09-12T17:02:43.186948+08:00"
     description: Customer Provisioned Infrastructure PostgreSQL for Kubernetes
     digest: 65576c9bbe4e67bbe053677e5270526d193c0feb9f6c060b97fb5f897d25df87
     name: cpi-postgresql
@@ -597,7 +597,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.746843+08:00"
+    created: "2023-09-12T17:02:43.186741+08:00"
     description: Customer Provisioned Infrastructure PostgreSQL for Kubernetes
     digest: 6679c860e43dd287556b36826efc1b905cdf5a030f85f4409b07deb0fe012559
     name: cpi-postgresql
@@ -607,7 +607,7 @@ entries:
     version: 0.5.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.746608+08:00"
+    created: "2023-09-12T17:02:43.186535+08:00"
     description: Customer Provisioned Infrastructure PostgreSQL for Kubernetes
     digest: dbaae588cf8a500db816e2ea3ffdab4f90ac88ca0e6934fc2e269cf76d30dfda
     name: cpi-postgresql
@@ -617,7 +617,7 @@ entries:
     version: 0.5.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.746309+08:00"
+    created: "2023-09-12T17:02:43.186332+08:00"
     description: Customer Provisioned Infrastructure PostgreSQL for Kubernetes
     digest: e8dcc8758625c497cc78d437f3bb8f3a027a346ef01ff88ec4cbaa1e27bb9a0f
     name: cpi-postgresql
@@ -627,7 +627,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.744376+08:00"
+    created: "2023-09-12T17:02:43.186118+08:00"
     description: Customer Provisioned Infrastructure PostgreSQL for Kubernetes
     digest: 8f250150c12a790659fcc592c8c44ca28e1cd5aa6f993263ec817cfa8a4bead9
     name: cpi-postgresql
@@ -637,7 +637,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.744087+08:00"
+    created: "2023-09-12T17:02:43.185882+08:00"
     description: Customer Provisioned Infrastructure PostgreSQL for Kubernetes
     digest: af2442176eddab4114d6af7fed29ec943978d9b2501492dfba2f3e75c52c819b
     name: cpi-postgresql
@@ -647,7 +647,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-12T16:57:10.74388+08:00"
+    created: "2023-09-12T17:02:43.185623+08:00"
     description: Customer Provisioned Infrastructure PostgreSQL for Kubernetes
     digest: f91485382b6f463f5bf4a722026e09f71798856fb4851643db2b2b520c7e0a73
     name: cpi-postgresql
@@ -658,7 +658,17 @@ entries:
   motion:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.75286+08:00"
+    created: "2023-09-12T17:02:43.19367+08:00"
+    description: Project Motion charts for Kubernetes
+    digest: a09cd9df8040b9e9ce7f7945a5b90528ec101a3bc8bbef2425030da6c8ad642e
+    name: motion
+    type: application
+    urls:
+    - motion-0.3.3.tgz
+    version: 0.3.3
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-09-12T17:02:43.193297+08:00"
     description: Project Motion charts for Kubernetes
     digest: acb7b3fc65606708392c6eac872941a6568b6f4bfce3a5db0c5a8c639a1b2f97
     name: motion
@@ -668,7 +678,7 @@ entries:
     version: 0.3.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.751808+08:00"
+    created: "2023-09-12T17:02:43.19289+08:00"
     description: Project Motion charts for Kubernetes
     digest: 4f6b9399931c6a0c43054c0cf191276022703b43b7a99006a280b72bc0f51c97
     name: motion
@@ -678,7 +688,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.751461+08:00"
+    created: "2023-09-12T17:02:43.192525+08:00"
     description: Project Motion charts for Kubernetes
     digest: 650ff1cae434c2522b0408b858f59456c73160da0aa14d552a9e1625dff371ab
     name: motion
@@ -688,7 +698,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.751079+08:00"
+    created: "2023-09-12T17:02:43.192127+08:00"
     description: Project Motion charts for Kubernetes
     digest: 0f3a0c5e63bc4ea446137714146724c2073692f6a3fb7acbbd5c8cb7439ada35
     name: motion
@@ -698,7 +708,7 @@ entries:
     version: 0.2.7
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.750682+08:00"
+    created: "2023-09-12T17:02:43.191673+08:00"
     description: Project Motion charts for Kubernetes
     digest: 289305802db789f2a39b62377c4c116f7800203e46b2e5097752542c28421d86
     name: motion
@@ -708,7 +718,7 @@ entries:
     version: 0.2.6
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.750272+08:00"
+    created: "2023-09-12T17:02:43.191253+08:00"
     description: Project Motion charts for Kubernetes
     digest: bc15fae84edf5e3894813bbb5ad75686b3b3de41fb65cf7220d08f2144d500e5
     name: motion
@@ -718,7 +728,7 @@ entries:
     version: 0.2.5
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.750006+08:00"
+    created: "2023-09-12T17:02:43.190897+08:00"
     description: Project Motion charts for Kubernetes
     digest: fe431aacc4b24c2a6c29184b9f4e624bc76e0641931465254c817ce898546a20
     name: motion
@@ -728,7 +738,7 @@ entries:
     version: 0.2.4
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.749738+08:00"
+    created: "2023-09-12T17:02:43.190567+08:00"
     description: Project Motion charts for Kubernetes
     digest: 97424538eeb0285bd314e551970a87cef101fa4ecd88607bd28907f4d8cd9927
     name: motion
@@ -738,7 +748,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.749462+08:00"
+    created: "2023-09-12T17:02:43.189634+08:00"
     description: Project Motion charts for Kubernetes
     digest: bb3954cb257a9d48991e5c6d22e446f3a429c7789c8fc73c08ddfcce7265ecb8
     name: motion
@@ -748,7 +758,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.749188+08:00"
+    created: "2023-09-12T17:02:43.189356+08:00"
     description: Project Motion charts for Kubernetes
     digest: 8493faf9b7ba6ff6b449fd9f64eb6d824149097b6be11d9f167d5f962341236c
     name: motion
@@ -758,7 +768,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.748916+08:00"
+    created: "2023-09-12T17:02:43.18906+08:00"
     description: Project Motion charts for Kubernetes
     digest: 4ea543dabcf593fe5a407c88a0b1eff02ecdc695e6d80ac2078145762ee1cc4f
     name: motion
@@ -768,7 +778,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.748615+08:00"
+    created: "2023-09-12T17:02:43.18876+08:00"
     description: Project Motion charts for Kubernetes
     digest: 8eac7763b749a89287803e9cc53d74edfc537ecca2a728089cdbc3cea83a1cd3
     name: motion
@@ -778,7 +788,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.748334+08:00"
+    created: "2023-09-12T17:02:43.188444+08:00"
     description: Project Motion charts for Kubernetes
     digest: 579928424d3c518c7e2e01f9c524473392eaa9941237dbbea47e6e75c4745115
     name: motion
@@ -789,7 +799,17 @@ entries:
   singularity:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.758761+08:00"
+    created: "2023-09-12T17:02:43.200945+08:00"
+    description: Singularity node charts for Kubernetes
+    digest: aa6c9c27f0386d69d8dc30bc4575210f4dada5bc0e6ade13156fa404025d39d8
+    name: singularity
+    type: application
+    urls:
+    - singularity-0.3.2.tgz
+    version: 0.3.2
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-09-12T17:02:43.200549+08:00"
     description: Singularity node charts for Kubernetes
     digest: 99b3d4315adb174031e7b5827b2c3fa56a3642bef121dbd67c95b46392107ca6
     name: singularity
@@ -799,7 +819,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.758219+08:00"
+    created: "2023-09-12T17:02:43.20002+08:00"
     description: Singularity node charts for Kubernetes
     digest: 1e23d7bceac04d2109b2859a3935e0d7e8612bd6b792f0d635a7eb12c8cc8f01
     name: singularity
@@ -809,7 +829,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.755762+08:00"
+    created: "2023-09-12T17:02:43.196555+08:00"
     description: Singularity node charts for Kubernetes
     digest: 645bc5205c6040da333af1f449084a664ee79b76e7771b4577e9a6cb06f2f2e1
     name: singularity
@@ -819,7 +839,7 @@ entries:
     version: 0.2.14
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.755357+08:00"
+    created: "2023-09-12T17:02:43.196184+08:00"
     description: Singularity node charts for Kubernetes
     digest: 0af84e8a4b79f795f1e3381069b0e3cd4317373271c17eb3f240853e1a02e8a7
     name: singularity
@@ -829,7 +849,7 @@ entries:
     version: 0.2.13
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.75493+08:00"
+    created: "2023-09-12T17:02:43.195652+08:00"
     description: Singularity node charts for Kubernetes
     digest: 4252d58f870ae0ea4322cbac0320b4b974cc031ea22c41e2ef111ceacf5d5d2c
     name: singularity
@@ -839,7 +859,7 @@ entries:
     version: 0.2.12
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.754513+08:00"
+    created: "2023-09-12T17:02:43.195157+08:00"
     description: Singularity node charts for Kubernetes
     digest: 26210d335f523843df1065f0ed07770a977c4bf86160e027bc9a766c34b480ba
     name: singularity
@@ -849,7 +869,7 @@ entries:
     version: 0.2.11
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.754227+08:00"
+    created: "2023-09-12T17:02:43.194885+08:00"
     description: Singularity node charts for Kubernetes
     digest: 5661841eed8c6e52e5c90be124e3f57dcb1ed4e0ac97700a0c2bc67b6e16079e
     name: singularity
@@ -859,7 +879,7 @@ entries:
     version: 0.2.10
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.757875+08:00"
+    created: "2023-09-12T17:02:43.199516+08:00"
     description: Singularity node charts for Kubernetes
     digest: a7bf16b6b661bf33995bec06b08789df072a9ba16c9e3c9d6907c811e490e12d
     name: singularity
@@ -869,7 +889,7 @@ entries:
     version: 0.2.9
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.757617+08:00"
+    created: "2023-09-12T17:02:43.199241+08:00"
     description: Singularity node charts for Kubernetes
     digest: 08b3bef7e5d729b5800895b8474866336ffd5953ef95ce2a6d6aaf87a4c6ba2f
     name: singularity
@@ -879,7 +899,7 @@ entries:
     version: 0.2.8
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.757359+08:00"
+    created: "2023-09-12T17:02:43.198972+08:00"
     description: Singularity node charts for Kubernetes
     digest: c4d56293e7785d1ad7c97607d23c95797d0beba0725acbce9125e6e2db9e3687
     name: singularity
@@ -889,7 +909,7 @@ entries:
     version: 0.2.7
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.7571+08:00"
+    created: "2023-09-12T17:02:43.198706+08:00"
     description: Singularity node charts for Kubernetes
     digest: 06c218cc5e7a421a20d49aedefd40abf7122c1506eaaa599ebc782a42003beb2
     name: singularity
@@ -899,7 +919,7 @@ entries:
     version: 0.2.6
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.75684+08:00"
+    created: "2023-09-12T17:02:43.198415+08:00"
     description: Singularity node charts for Kubernetes
     digest: 79483ae3c2a56b5fa692101f93be73fc614850bf8b41a27c8dac7e7191d82c11
     name: singularity
@@ -909,7 +929,7 @@ entries:
     version: 0.2.5
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.756578+08:00"
+    created: "2023-09-12T17:02:43.198113+08:00"
     description: Singularity node charts for Kubernetes
     digest: 88d42f8ab01db8efbd63be6fd5bd923d6bab3b3106a1c516ad3726662b2b1a37
     name: singularity
@@ -919,7 +939,7 @@ entries:
     version: 0.2.4
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.756312+08:00"
+    created: "2023-09-12T17:02:43.197121+08:00"
     description: Singularity node charts for Kubernetes
     digest: 5f93bb436b12b8bc965259ad7dc4ad89b6f00a008eb986bc2cc8de851fe68523
     name: singularity
@@ -929,7 +949,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.756038+08:00"
+    created: "2023-09-12T17:02:43.196848+08:00"
     description: Singularity node charts for Kubernetes
     digest: cb3bdf3355bb6dc4eccc9bd5de1b37c8b0b7d6c33f4c0a09da912c350834380f
     name: singularity
@@ -939,7 +959,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.753946+08:00"
+    created: "2023-09-12T17:02:43.194608+08:00"
     description: Singularity node charts for Kubernetes
     digest: 2345dcffc4c8d7be6cf8981bbe6a49dbec50bb0b18e889ac625955166d8de1ab
     name: singularity
@@ -949,7 +969,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.753647+08:00"
+    created: "2023-09-12T17:02:43.194221+08:00"
     description: Singularity node charts for Kubernetes
     digest: afdec3ccb45b99f1b0f7baed62548932fb35e81175ca5f44dd4c5b4b60c3fab4
     name: singularity
@@ -959,7 +979,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-09-12T16:57:10.75328+08:00"
+    created: "2023-09-12T17:02:43.193941+08:00"
     description: Singularity node charts for Kubernetes
     digest: 03f7f61044fa4d977bc656aa9f3e902d7d09ed9e0fd1055db540a95563b22f75
     name: singularity
@@ -967,4 +987,4 @@ entries:
     urls:
     - singularity-0.1.0.tgz
     version: 0.1.0
-generated: "2023-09-12T16:57:10.720182+08:00"
+generated: "2023-09-12T17:02:43.155937+08:00"
